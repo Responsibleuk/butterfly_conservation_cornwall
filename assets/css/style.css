@@ -4194,12 +4194,21 @@ ul>li>a:focus, ul>li>a:hover {
 }
 .contact-us{}
 .contact-title{
-	font-size: 30px;
+	font-size: 15px;
 	font-weight: 700;
 	color: #000;
 	text-transform: uppercase;
 	margin-bottom: 22px;
+	margin-right:50px;
+	margin-top:22px;
+	
 }
+
+.contact-title img{
+	max-width: 50px;
+}
+
+
 .contact-form{
 	margin-top: 31px;
 }
@@ -4324,7 +4333,10 @@ ul>li>a:focus, ul>li>a:hover {
 	height: 600px;
 }
 
-
+.contact-image {
+	max-height: 200px;
+	width: auto;
+}
 
 /*=========================================================Start Single Event Css ===========================*/
 
